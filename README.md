@@ -1,4 +1,4 @@
-VerifyAddres
+VerifyAddress
 ============
 # Spring beans via spring.xml configuration
 
