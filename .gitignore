@@ -28,5 +28,5 @@ nbdist/
 *.logs
 target/
 WebContent/
-.DS_Store
-/src/main/webapp/META-INF/*
+/src/main/webapp/META-INF/maven
+/src/main/webapp/META-INF/.DS_Store
