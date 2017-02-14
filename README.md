@@ -8,3 +8,6 @@ Eclipse Project Properties: Deployment Assembly to add all Maven Dependency to E
 
 #Create a fat jar with maven assembly plugin:
 https://www.mkyong.com/maven/create-a-fat-jar-file-maven-assembly-plugin/
+
+#Create a fat jar with maven shade plugin:
+https://www.mkyong.com/maven/create-a-fat-jar-file-maven-shade-plugin/
