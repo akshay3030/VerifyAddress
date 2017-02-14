@@ -28,3 +28,4 @@ nbdist/
 *.logs
 target/
 WebContent/
+.DS_Store
